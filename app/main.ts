@@ -21,7 +21,7 @@ window.onload = function () {
 
 /// on using jQuery:
 
-// import {Utils} from "./common/utils";
+// import Utils from "./common/utils";
 // import * as $ from "jquery";  
 
 // function processButtonClick() {
