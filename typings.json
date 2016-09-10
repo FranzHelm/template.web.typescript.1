@@ -1,0 +1,7 @@
+{
+  "dependencies": {},
+  "globalDependencies": {
+    "lodash": "registry:dt/lodash#4.14.0+20160830145422",
+    "require": "registry:dt/require#2.1.20+20160316155526"
+  }
+}

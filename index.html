@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>TEST</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="styles/app.css">
+
+  <script src="./bower_components/requirejs/require.js"></script>
+  <script src="require-config.js"></script>
+  <script>
+      require(["app/main"]);
+  </script>
+</head>
+
+<body>
+  <form>
+    <input id="hlc-input" type="text" value="">
+    <button id="hlc-btn-process" type="button">Process</button>
+    <hr />
+    <div id="hlc-output"></div>
+  </form>
+</body>
+
+</html>
