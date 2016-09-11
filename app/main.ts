@@ -1,5 +1,5 @@
 
-import Utils from "./common/utils"
+import Utils from "./common/utils";
 
 function processButtonClick() {
   console.log("processButtonClick");
